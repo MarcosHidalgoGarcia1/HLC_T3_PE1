@@ -1,0 +1,81 @@
+.Letra{
+    font-family: "Klee One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bot{
+  padding: 30px;
+  background-color: #4476a8;
+  justify-content: left;
+}
+
+.imagen{
+  border: 5px;
+
+}
+
+.btn1 {
+  background-color: #3498db;
+  padding: 10px;
+  border-radius: 5px;
+  width: 10%;
+  justify-content: center;
+  display: flex;
+  color: white;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  font-size: 15px;
+
+}
+
+.btn1:hover,
+.btn1:focus {
+    background-color: #1abc9c;
+    border-radius: 5px;
+}
+
+.btn2 {
+  background-color: #3498db;
+  padding: 10px;
+  border-radius: 5px;
+  width: 10%;
+  justify-content: center;
+  display: flex;
+  color: white;
+  transition: background-color 0.5s ease, transform 0.5s ease;
+  font-size: 15px;
+}
+
+.btn2:hover,
+.btn2:focus {
+    background-color: #1abc9c;
+    border-radius: 5px;
+}
+
+.btn3 {
+  background-color: #3498db;
+  padding: 10px;
+  border-radius: 5px;
+  width: 10%;
+  justify-content: center;
+  display: flex;
+  color: white;
+  transition: background-color 0.5s ease, transform 0.5s ease;
+  font-size: 15px;
+}
+
+.btn3:hover,
+.btn3:focus {
+    background-color: #1abc9c;
+    border-radius: 5px;
+}
+
+.tabla{
+  background-color: #1abc9c;
+
+}
+
+.bordes{
+  margin-left: 250px;
+
+}
